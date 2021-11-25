@@ -1,0 +1,13 @@
+type: code
+custom_name: Complex numbers
+files:
+- name: src/Main.java
+  visible: true
+  text: // write the class Complex here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2986#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 12 Nov 2021 07:39:48 UTC
+record: -1
